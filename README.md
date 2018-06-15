@@ -1,1 +1,1 @@
-# alien baysian oracle
+# alien bayesian oracle
